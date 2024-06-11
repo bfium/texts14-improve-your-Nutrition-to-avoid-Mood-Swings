@@ -106,7 +106,7 @@ source: [RDV](https://www.fda.gov/media/99059/download)
 # Case study
 
 ---
-## How to improve your nutrition
+## How to improve your nutrition?
 
 Potato gratin, known as "[Kartoffelgratin-klassisch](https://www.kochbar.de/rezept/193433/Kartoffelgratin-klassisch.html?personen=1)" in Germany, is a popular dish deeply rooted in European culinary traditions. Typically comprised of layers of thinly sliced potatoes, rich cream, butter, cheese, and often a touch of garlic or nutmeg, this delightful comfort food is both hearty and indulgent. While its savory flavors and creamy texture offer a satisfying dining experience, it is essential to understand the nutritional implications of incorporating such a dish into the regular diet of various demographic groups.
 
