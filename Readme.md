@@ -10,8 +10,6 @@
     <a href="#Objectives">Objectives</a> •
     <a href="#Nutrition Recommendations">Nutrition Recommendations</a> •
     <a href="#Case study">Case study</a> •
-    <a href="#Conclusion"> Conclusion</a> •
-    <a href="#Literatures">Literatures</a> •
     <a href="#About the Author">About the Author</a> •
 </p>
 <hr />
@@ -205,7 +203,7 @@ source:  [ANSES](https://ciqual.anses.fr/#)
 ---
 
 
-| alim_name                   | Amidon (g) | Fibres alimentaires (g) | Polyols totaux (g) | Cendres (g) | Alcool (g) | Acides organiques (g) |
+| alim_name                     | Amidon (g) | Fibres alimentaires (g) | Polyols totaux (g) | Cendres (g) | Alcool (g) | Acides organiques (g) |
 |-------------------------------|------------|-------------------------|--------------------|-------------|------------|-----------------------|
 | Potato. peeled. roasted/baked | 0.00       | 3.00                    | 0.00               | 1.94        | 0.00       | 0.00                  |
 | Cheese (average)              | 0.00       | 0.00                    | 0.00               | 0.40        | 0.00       | 0.07                  |
@@ -219,7 +217,7 @@ source:  [ANSES](https://ciqual.anses.fr/#)
 ---
 
 
-| alim_name                   | AG saturés (g) | AG monoinsaturés (g) | AG polyinsaturés (g) | AG 4:0, butyrique (g) | AG 6:0, caproïque (g) | AG 8:0, caprylique (g) | AG 10:0, caprique (g) | AG 12:0, laurique (g) | AG 14:0, myristique (g) | AG 16:0, palmitique (g) | AG 18:0, stéarique (g) | AG 18:1 9c (n-9), oléique (g) | AG 18:2 9c,12c (n-6), linoléique (g) | AG 18:3 c9,c12,c15 (n-3), alpha-linolénique (g) | AG 20:4 5c,8c,11c,14c (n-6), arachidonique (g) | AG 20:5 5c,8c,11c,14c,17c (n-3) EPA (g) | AG 22:6 4c,7c,10c,13c,16c,19c (n-3) DHA (g) |
+| alim_name                     | AG saturés (g) | AG monoinsaturés (g) | AG polyinsaturés (g) | AG 4:0, butyrique (g) | AG 6:0, caproïque (g) | AG 8:0, caprylique (g) | AG 10:0, caprique (g) | AG 12:0, laurique (g) | AG 14:0, myristique (g) | AG 16:0, palmitique (g) | AG 18:0, stéarique (g) | AG 18:1 9c (n-9), oléique (g) | AG 18:2 9c,12c (n-6), linoléique (g) | AG 18:3 c9,c12,c15 (n-3), alpha-linolénique (g) | AG 20:4 5c,8c,11c,14c (n-6), arachidonique (g) | AG 20:5 5c,8c,11c,14c,17c (n-3) EPA (g) | AG 22:6 4c,7c,10c,13c,16c,19c (n-3) DHA (g) |
 |-------------------------------|----------------|----------------------|----------------------|-----------------------|-----------------------|------------------------|-----------------------|-----------------------|-------------------------|-------------------------|------------------------|-------------------------------|--------------------------------------|-------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------|
 | Potato. peeled. roasted/baked | 0.05           | 0.00                 | 0.09                 | 0.00                  | 0.00                  | 0.00                   | 0.00                  | 0.01                  | 0.00                    | 0.03                    | 0.01                   | 0.00                          | 0.00                                 | 0.00                                            | 0.00                                           | 0.00                                    | 0.00                                        |
 | Cheese (average)              | 2.28           | 0.80                 | 0.10                 | 0.11                  | 0.08                  | 0.05                   | 0.11                  | 0.12                  | 0.38                    | 1.00                    | 0.32                   | 0.63                          | 0.05                                 | 0.02                                            | 0.00                                           | 0.00                                    | 0.00                                        |
@@ -232,7 +230,7 @@ source:  [ANSES](https://ciqual.anses.fr/#)
 
 ---
 
-| alim_name                   | Cholestérol (mg) | Sel chlorure de sodium (g) | Calcium (mg) | Chlorure (mg) | Cuivre (mg) | Fer (mg) | Iode (µg) | Magnésium (mg) | Manganèse (mg) |
+| alim_name                     | Cholestérol (mg) | Sel chlorure de sodium (g) | Calcium (mg) | Chlorure (mg) | Cuivre (mg) | Fer (mg) | Iode (µg) | Magnésium (mg) | Manganèse (mg) |
 |-------------------------------|------------------|----------------------------|--------------|---------------|-------------|----------|-----------|----------------|----------------|
 | Potato. peeled. roasted/baked | 0.00             | 0.01                       | 18.96        | 0.00          | 0.19        | 0.70     | 6.00      | 43.40          | 0.30           |
 | Cheese (average)              | 11.23            | 0.16                       | 78.25        | 101.88        | 0.02        | 0.03     | 2.89      | 3.65           | 0.00           |
@@ -246,7 +244,7 @@ source:  [ANSES](https://ciqual.anses.fr/#)
 ---
 
 
-| alim_name                   | Phosphore (mg) | Potassium (mg) | Sélénium (µg) | Sodium (mg) | Zinc (mg) | Vitamine A / Rétinol (µg) | Beta-Carotène (µg) | Vitamine D (µg) | Vitamine E (mg) | Vitamine K1 (µg) | Vitamine K2 (µg) | Vitamine C (mg) | Vitamine B1 / Thiamine (mg) |
+| alim_name                     | Phosphore (mg) | Potassium (mg) | Sélénium (µg) | Sodium (mg) | Zinc (mg) | Vitamine A / Rétinol (µg) | Beta-Carotène (µg) | Vitamine D (µg) | Vitamine E (mg) | Vitamine K1 (µg) | Vitamine K2 (µg) | Vitamine C (mg) | Vitamine B1 / Thiamine (mg) |
 |-------------------------------|----------------|----------------|---------------|-------------|-----------|---------------------------|--------------------|-----------------|-----------------|------------------|------------------|-----------------|-----------------------------|
 | Potato. peeled. roasted/baked | 100.00         | 782.00         | 4.40          | 2.86        | 0.48      | 0.00                      | 0.00               | 0.00            | 0.08            | 0.60             | 0.00             | 25.60           | 0.22                        |
 | Cheese (average)              | 56.75          | 15.25          | 0.97          | 63.75       | 0.36      | 28.25                     | 0.00               | 0.04            | 0.07            | 0.00             | 0.00             | 0.01            | 0.00                        |
@@ -259,8 +257,8 @@ source:  [ANSES](https://ciqual.anses.fr/#)
 ### Dietary Reference Intakes (DRIs): Estimated Average Requirements Food and Nutrition for Females Aged 31–50 Years-75kg weight
 
 | dri_grp_name | dri_grp | Calcium (mg/d) | Carbohydrate / CHO (g/d) | Protein (g/kg/d) | Vitamin A (µg/d)a | Vitamin C (mg/d) | Vitamin D (µg/d) | Vitamin E (mg/d)b | Vitamine B1 / Thiamin (mg/d) | Vitamine B2 / Riboflavin (mg/d) | Vitamine B3 / Niacin (mg/d)c | Vitamin B6 (mg/d) | Vitamine B9 / Folate (µg/d)d | Vitamin B12 (µg/d) | Cuivre (µg/d) | Iode (µg/d) | Fer (mg/d) | Magnesium (mg/d) | Molybdenum (µg/d) | Phosphore (mg/d) | Selenium (µg/d) | Zinc (mg/d) |
-|----------------|---------|----------------|--------------------------|------------------|-------------------|------------------|------------------|-------------------|------------------------------|---------------------------------|------------------------------|-------------------|------------------------------|--------------------|---------------|-------------|------------|------------------|-------------------|------------------|-----------------|-------------|
-| Females        | 31–50 y | 800.00         | 100.00                   | 49.500           | 500.00            | 60.00            | 10.00            | 12.00             | 0.900                        | 0.900                           | 11.00                        | 1.100             | 320.00                       | 2.00               | 700.00        | 95.00       | 8.10       | 265.00           | 34.00             | 580.00           | 45.00           | 6.80        |
+|--------------|---------|----------------|--------------------------|------------------|-------------------|------------------|------------------|-------------------|------------------------------|---------------------------------|------------------------------|-------------------|------------------------------|--------------------|---------------|-------------|------------|------------------|-------------------|------------------|-----------------|-------------|
+| Females      | 31–50 y | 800.00         | 100.00                   | 49.500           | 500.00            | 60.00            | 10.00            | 12.00             | 0.900                        | 0.900                           | 11.00                        | 1.100             | 320.00                       | 2.00               | 700.00        | 95.00       | 8.10       | 265.00           | 34.00             | 580.00           | 45.00           | 6.80        |
 see: [RDI](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=objectonly)
 
 
@@ -276,35 +274,33 @@ see: [RDI](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=
   <img src="input/img/img_8.png" />
 </div>
 
-![img_8.png](..%2Finput%2Fimg%2Fimg_8.png)
-
 ## 8. observations and recommendations
 
    
 
-| Nutrient                 | Current Intake (%) | Recommendations                                                                                               |
-|--------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| Calcium                  | 21.664%            | Increase intake of dairy products, leafy greens, and fortified foods.                                         |
-| Carbohydrates            | 0.000%             | Incorporate whole grains, fruits, vegetables, and legumes into your diet.                                     |
-| Proteins                 | 17.641%            | Eat more lean meats, fish, eggs, dairy, legumes, nuts, and seeds.                                             |
-| Vitamin A / Retinol      | 8.240%             | Consume sweet potatoes, carrots, spinach, kale, liver, fish oil, and dairy products.                          |
-| Vitamin C                | 43.999%            | Increase citrus fruits, strawberries, kiwi, bell peppers, and broccoli.                                       |
-| Vitamin D                | 0.919%             | Spend time in sunlight, eat fatty fish, fortified dairy, egg yolks, and consider supplementation.             |
-| Vitamin E                | 1.502%             | Include nuts, seeds, green leafy vegetables, and vegetable oils.                                              |
-| Vitamin B1 / Thiamine    | 27.926%            | Integrate whole grains, pork, legumes, and nuts.                                                              |
-| Vitamin B2 / Riboflavine | 22.691%            | Consume eggs, lean meats, dairy, green vegetables, and fortified cereals.                                     |
-| Vitamin B3 / Niacin      | 27.121%            | Increase intake of poultry, fish, lean meats, nuts, and legumes.                                              |
-| Vitamin B6               | 58.421%            | Include poultry, fish, potatoes, chickpeas, bananas, and fortified cereals.                                   |
-| Vitamin B9 / Folates     | 8.554%             | Consume dark green leafy vegetables, legumes, fortified grains, and citrus fruits.                            |
-| Vitamin B12              | 21.307%            | Boost intake with fish, meat, poultry, eggs, milk, and fortified cereals.                                     |
-| Copper                   | 0.034%             | Increase shellfish, nuts, seeds, whole grains, and beans.                                                     |
-| Iodine                   | 25.583%            | Use iodized salt, eat more seafood, dairy products, and eggs.                                                 |
-| Iron                     | 9.333%             | Incorporate red meat, poultry, seafood, lentils, beans, and iron-fortified cereals with vitamin C-rich foods. |
-| Magnesium                | 20.447%            | Consume nuts, seeds, whole grains, green leafy vegetables, and legumes.                                       |
-| Manganese                | 0.900%             | Include whole grains, nuts, leafy vegetables, and tea.                                                        |
-| Phosphorus               | 37.521%            | Eat dairy products, fish, poultry, red meat, nuts, whole grains, and legumes.                                 |
-| Selenium                 | 14.657%            | Increase Brazil nuts, seafood, meats, whole grains, and dairy products.                                       |
-| Zinc                     | 16.016%            | Consume meat, shellfish, legumes, seeds, nuts, dairy products, eggs, and whole grains.                        |
+| Nutrient                 | Current Intake from the Kartoffelgratin-klassisch(%) | Recommendations                                                                                               |
+|--------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Calcium                  | 21.664%                                              | Increase intake of dairy products, leafy greens, and fortified foods.                                         |
+| Carbohydrates            | 0.000%                                               | Incorporate whole grains, fruits, vegetables, and legumes into your diet.                                     |
+| Proteins                 | 17.641%                                              | Eat more lean meats, fish, eggs, dairy, legumes, nuts, and seeds.                                             |
+| Vitamin A / Retinol      | 8.240%                                               | Consume sweet potatoes, carrots, spinach, kale, liver, fish oil, and dairy products.                          |
+| Vitamin C                | 43.999%                                              | Increase citrus fruits, strawberries, kiwi, bell peppers, and broccoli.                                       |
+| Vitamin D                | 0.919%                                               | Spend time in sunlight, eat fatty fish, fortified dairy, egg yolks, and consider supplementation.             |
+| Vitamin E                | 1.502%                                               | Include nuts, seeds, green leafy vegetables, and vegetable oils.                                              |
+| Vitamin B1 / Thiamine    | 27.926%                                              | Integrate whole grains, pork, legumes, and nuts.                                                              |
+| Vitamin B2 / Riboflavine | 22.691%                                              | Consume eggs, lean meats, dairy, green vegetables, and fortified cereals.                                     |
+| Vitamin B3 / Niacin      | 27.121%                                              | Increase intake of poultry, fish, lean meats, nuts, and legumes.                                              |
+| Vitamin B6               | 58.421%                                              | Include poultry, fish, potatoes, chickpeas, bananas, and fortified cereals.                                   |
+| Vitamin B9 / Folates     | 8.554%                                               | Consume dark green leafy vegetables, legumes, fortified grains, and citrus fruits.                            |
+| Vitamin B12              | 21.307%                                              | Boost intake with fish, meat, poultry, eggs, milk, and fortified cereals.                                     |
+| Copper                   | 0.034%                                               | Increase shellfish, nuts, seeds, whole grains, and beans.                                                     |
+| Iodine                   | 25.583%                                              | Use iodized salt, eat more seafood, dairy products, and eggs.                                                 |
+| Iron                     | 9.333%                                               | Incorporate red meat, poultry, seafood, lentils, beans, and iron-fortified cereals with vitamin C-rich foods. |
+| Magnesium                | 20.447%                                              | Consume nuts, seeds, whole grains, green leafy vegetables, and legumes.                                       |
+| Manganese                | 0.900%                                               | Include whole grains, nuts, leafy vegetables, and tea.                                                        |
+| Phosphorus               | 37.521%                                              | Eat dairy products, fish, poultry, red meat, nuts, whole grains, and legumes.                                 |
+| Selenium                 | 14.657%                                              | Increase Brazil nuts, seafood, meats, whole grains, and dairy products.                                       |
+| Zinc                     | 16.016%                                              | Consume meat, shellfish, legumes, seeds, nuts, dairy products, eggs, and whole grains.                        |
 
 ## Potential diseases and health conditions that can result from deficiencies in the various nutrients. 
 
@@ -333,10 +329,6 @@ see: [RDI](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=
 | Selenium                 | Keshan disease (a type of heart disease), Kashin-Beck disease (a type of osteoarthritis)                         |
 | Zinc                     | Growth retardation, hair loss, diarrhea, delayed sexual maturation, eye and skin lesions, impaired wound healing |
 
-
-# Conclusion
-
-# Literatures
 
 # About the Author
 Meet Dipl.-Ing Barth. Feudong, a talented individual with a passion for combining technology and health. 
